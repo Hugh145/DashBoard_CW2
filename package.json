@@ -1,0 +1,25 @@
+{
+  "name": "dashboard_cw2",
+  "version": "1.0.0",
+  "description": "Creation of the dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hugh145/DashBoard_CW2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hugh145/DashBoard_CW2/issues"
+  },
+  "homepage": "https://github.com/Hugh145/DashBoard_CW2#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.2"
+  }
+}
