@@ -1,0 +1,218 @@
+[
+  {
+    "Region": "Americas",
+    "division": "Taxation",
+    "type": "Leads",
+    "data": 1022.0
+  },
+  {
+    "Region": "Americas",
+    "division": "Taxation",
+    "type": "Meetings",
+    "data": 140.0
+  },
+  {
+    "Region": "Americas",
+    "division": "Taxation",
+    "type": "Submissions",
+    "data": 35.0
+  },
+  {
+    "Region": "Americas",
+    "division": "Taxation",
+    "type": "Shortlist",
+    "data": 23.0
+  },
+  {
+    "Region": "Americas",
+    "division": "Audit",
+    "type": "Leads",
+    "data": 490.0
+  },
+  {
+    "Region": "Americas",
+    "division": "Audit",
+    "type": "Meetings",
+    "data": 120.0
+  },
+  {
+    "Region": "Americas",
+    "division": "Audit",
+    "type": "Submissions",
+    "data": 45.0
+  },
+  {
+    "Region": "Americas",
+    "division": "Audit",
+    "type": "Shortlist",
+    "data": 12.0
+  },
+  {
+    "Region": "Americas",
+    "division": "Advisory",
+    "type": "Leads",
+    "data": 560.0
+  },
+  {
+    "Region": "Americas",
+    "division": "Advisory",
+    "type": "Meetings",
+    "data": 58.0
+  },
+  {
+    "Region": "Americas",
+    "division": "Advisory",
+    "type": "Submissions",
+    "data": 28.0
+  },
+  {
+    "Region": "Americas",
+    "division": "Advisory",
+    "type": "Shortlist",
+    "data": 18.0
+  },
+  {
+    "Region": "Europe",
+    "division": "Taxation",
+    "type": "Leads",
+    "data": 449.68
+  },
+  {
+    "Region": "Europe",
+    "division": "Taxation",
+    "type": "Meetings",
+    "data": 61.6
+  },
+  {
+    "Region": "Europe",
+    "division": "Taxation",
+    "type": "Submissions",
+    "data": 30.0
+  },
+  {
+    "Region": "Europe",
+    "division": "Taxation",
+    "type": "Shortlist",
+    "data": 15.0
+  },
+  {
+    "Region": "Europe",
+    "division": "Audit",
+    "type": "Leads",
+    "data": 215.6
+  },
+  {
+    "Region": "Europe",
+    "division": "Audit",
+    "type": "Meetings",
+    "data": 52.8
+  },
+  {
+    "Region": "Europe",
+    "division": "Audit",
+    "type": "Submissions",
+    "data": 32.0
+  },
+  {
+    "Region": "Europe",
+    "division": "Audit",
+    "type": "Shortlist",
+    "data": 12.0
+  },
+  {
+    "Region": "Europe",
+    "division": "Advisory",
+    "type": "Leads",
+    "data": 246.4
+  },
+  {
+    "Region": "Europe",
+    "division": "Advisory",
+    "type": "Meetings",
+    "data": 25.52
+  },
+  {
+    "Region": "Europe",
+    "division": "Advisory",
+    "type": "Submissions",
+    "data": 16.0
+  },
+  {
+    "Region": "Europe",
+    "division": "Advisory",
+    "type": "Shortlist",
+    "data": 7.0
+  },
+  {
+    "Region": "Asia Pac",
+    "division": "Taxation",
+    "type": "Leads",
+    "data": 359.744
+  },
+  {
+    "Region": "Asia Pac",
+    "division": "Taxation",
+    "type": "Meetings",
+    "data": 49.28
+  },
+  {
+    "Region": "Asia Pac",
+    "division": "Taxation",
+    "type": "Submissions",
+    "data": 22.0
+  },
+  {
+    "Region": "Asia Pac",
+    "division": "Taxation",
+    "type": "Shortlist",
+    "data": 9.0
+  },
+  {
+    "Region": "Asia Pac",
+    "division": "Audit",
+    "type": "Leads",
+    "data": 172.48000000000002
+  },
+  {
+    "Region": "Asia Pac",
+    "division": "Audit",
+    "type": "Meetings",
+    "data": 42.24
+  },
+  {
+    "Region": "Asia Pac",
+    "division": "Audit",
+    "type": "Submissions",
+    "data": 15.840000000000002
+  },
+  {
+    "Region": "Asia Pac",
+    "division": "Audit",
+    "type": "Shortlist",
+    "data": 4.224
+  },
+  {
+    "Region": "Asia Pac",
+    "division": "Advisory",
+    "type": "Leads",
+    "data": 197.12
+  },
+  {
+    "Region": "Asia Pac",
+    "division": "Advisory",
+    "type": "Meetings",
+    "data": 20.416
+  },
+  {
+    "Region": "Asia Pac",
+    "division": "Advisory",
+    "type": "Submissions",
+    "data": 8.0
+  },
+  {
+    "Region": "Asia Pac",
+    "division": "Advisory",
+    "type": "Shortlist",
+    "data": 5.0
+  }
+]

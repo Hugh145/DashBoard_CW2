@@ -1,0 +1,866 @@
+[
+  {
+    "region": "Americas",
+    "discipline": "Audit",
+    "month": "2013-01-01",
+    "revenue": 6812150.505756527,
+    "pnl": 0.77,
+    "map": 146
+  },
+  {
+    "region": "Americas",
+    "discipline": "Taxation",
+    "month": "2013-01-01",
+    "revenue": 5274872.285927179,
+    "pnl": 0.87,
+    "map": 164
+  },
+  {
+    "region": "Americas",
+    "discipline": "Advisory",
+    "month": "2013-01-01",
+    "revenue": 7663669.318976094,
+    "pnl": 0.81,
+    "map": 154
+  },
+  {
+    "region": "Americas",
+    "discipline": "Audit",
+    "month": "2013-02-01",
+    "revenue": 4509112.879317396,
+    "pnl": 0.88,
+    "map": 165
+  },
+  {
+    "region": "Americas",
+    "discipline": "Taxation",
+    "month": "2013-02-01",
+    "revenue": 6748080.0,
+    "pnl": 0.76,
+    "map": 144
+  },
+  {
+    "region": "Americas",
+    "discipline": "Advisory",
+    "month": "2013-02-01",
+    "revenue": 2980315.8462684806,
+    "pnl": 0.8300000000000001,
+    "map": 157
+  },
+  {
+    "region": "Americas",
+    "discipline": "Audit",
+    "month": "2013-03-01",
+    "revenue": 4869112.879317396,
+    "pnl": 0.8300000000000001,
+    "map": 157
+  },
+  {
+    "region": "Americas",
+    "discipline": "Taxation",
+    "month": "2013-03-01",
+    "revenue": 3471834.6594880475,
+    "pnl": 0.86,
+    "map": 162
+  },
+  {
+    "region": "Americas",
+    "discipline": "Advisory",
+    "month": "2013-03-01",
+    "revenue": 2489410.0,
+    "pnl": 0.9,
+    "map": 169
+  },
+  {
+    "region": "Americas",
+    "discipline": "Audit",
+    "month": "2013-04-01",
+    "revenue": 1303037.626439132,
+    "pnl": 0.93,
+    "map": 174
+  },
+  {
+    "region": "Americas",
+    "discipline": "Taxation",
+    "month": "2013-04-01",
+    "revenue": 11454975.0,
+    "pnl": 0.79,
+    "map": 150
+  },
+  {
+    "region": "Americas",
+    "discipline": "Advisory",
+    "month": "2013-04-01",
+    "revenue": 7831750.0,
+    "pnl": 0.92,
+    "map": 172
+  },
+  {
+    "region": "Americas",
+    "discipline": "Audit",
+    "month": "2013-05-01",
+    "revenue": 5280880.0,
+    "pnl": 0.65,
+    "map": 126
+  },
+  {
+    "region": "Americas",
+    "discipline": "Taxation",
+    "month": "2013-05-01",
+    "revenue": 3184020.0,
+    "pnl": 0.7,
+    "map": 134
+  },
+  {
+    "region": "Americas",
+    "discipline": "Advisory",
+    "month": "2013-05-01",
+    "revenue": 11251380.0,
+    "pnl": 0.76,
+    "map": 144
+  },
+  {
+    "region": "Americas",
+    "discipline": "Audit",
+    "month": "2013-06-01",
+    "revenue": 5533640.0,
+    "pnl": 0.91,
+    "map": 171
+  },
+  {
+    "region": "Americas",
+    "discipline": "Taxation",
+    "month": "2013-06-01",
+    "revenue": 3036480.0,
+    "pnl": 0.8,
+    "map": 152
+  },
+  {
+    "region": "Americas",
+    "discipline": "Advisory",
+    "month": "2013-06-01",
+    "revenue": 923680.0,
+    "pnl": 0.86,
+    "map": 162
+  },
+  {
+    "region": "Americas",
+    "discipline": "Audit",
+    "month": "2013-07-01",
+    "revenue": 2042460.0,
+    "pnl": 0.77,
+    "map": 146
+  },
+  {
+    "region": "Americas",
+    "discipline": "Taxation",
+    "month": "2013-07-01",
+    "revenue": 3834240.0,
+    "pnl": 0.82,
+    "map": 155
+  },
+  {
+    "region": "Americas",
+    "discipline": "Advisory",
+    "month": "2013-07-01",
+    "revenue": 14409000.0,
+    "pnl": 0.89,
+    "map": 167
+  },
+  {
+    "region": "Americas",
+    "discipline": "Audit",
+    "month": "2013-08-01",
+    "revenue": 11045120.0,
+    "pnl": 0.86,
+    "map": 162
+  },
+  {
+    "region": "Americas",
+    "discipline": "Taxation",
+    "month": "2013-08-01",
+    "revenue": 13254940.0,
+    "pnl": 0.87,
+    "map": 164
+  },
+  {
+    "region": "Americas",
+    "discipline": "Advisory",
+    "month": "2013-08-01",
+    "revenue": 2813400.0,
+    "pnl": 0.9,
+    "map": 169
+  },
+  {
+    "region": "Americas",
+    "discipline": "Audit",
+    "month": "2013-09-01",
+    "revenue": 10162320.0,
+    "pnl": 0.82,
+    "map": 155
+  },
+  {
+    "region": "Americas",
+    "discipline": "Taxation",
+    "month": "2013-09-01",
+    "revenue": 4153800.0,
+    "pnl": 0.84,
+    "map": 158
+  },
+  {
+    "region": "Americas",
+    "discipline": "Advisory",
+    "month": "2013-09-01",
+    "revenue": 948960.0,
+    "pnl": 0.9,
+    "map": 169
+  },
+  {
+    "region": "Americas",
+    "discipline": "Audit",
+    "month": "2013-10-01",
+    "revenue": 2529520.0,
+    "pnl": 0.89,
+    "map": 167
+  },
+  {
+    "region": "Americas",
+    "discipline": "Taxation",
+    "month": "2013-10-01",
+    "revenue": 2172720.0,
+    "pnl": 0.86,
+    "map": 162
+  },
+  {
+    "region": "Americas",
+    "discipline": "Advisory",
+    "month": "2013-10-01",
+    "revenue": 1385120.0,
+    "pnl": 0.92,
+    "map": 172
+  },
+  {
+    "region": "Americas",
+    "discipline": "Audit",
+    "month": "2013-11-01",
+    "revenue": 9400767.697944006,
+    "pnl": 0.73,
+    "map": 139
+  },
+  {
+    "region": "Americas",
+    "discipline": "Taxation",
+    "month": "2013-11-01",
+    "revenue": 7279323.754579506,
+    "pnl": 0.76,
+    "map": 144
+  },
+  {
+    "region": "Americas",
+    "discipline": "Advisory",
+    "month": "2013-11-01",
+    "revenue": 10575863.660187008,
+    "pnl": 0.85,
+    "map": 160
+  },
+  {
+    "region": "Americas",
+    "discipline": "Audit",
+    "month": "2013-12-01",
+    "revenue": 6222575.773458007,
+    "pnl": 0.63,
+    "map": 122
+  },
+  {
+    "region": "Americas",
+    "discipline": "Taxation",
+    "month": "2013-12-01",
+    "revenue": 9312350.399999999,
+    "pnl": 0.79,
+    "map": 150
+  },
+  {
+    "region": "Americas",
+    "discipline": "Advisory",
+    "month": "2013-12-01",
+    "revenue": 4112835.867850503,
+    "pnl": 0.89,
+    "map": 167
+  },
+  {
+    "region": "Europe",
+    "discipline": "Audit",
+    "month": "2013-01-01",
+    "revenue": 3784528.058753626,
+    "pnl": 0.74,
+    "map": 140
+  },
+  {
+    "region": "Europe",
+    "discipline": "Taxation",
+    "month": "2013-01-01",
+    "revenue": 2930484.6032928773,
+    "pnl": 0.84,
+    "map": 158
+  },
+  {
+    "region": "Europe",
+    "discipline": "Advisory",
+    "month": "2013-01-01",
+    "revenue": 4257594.0660978295,
+    "pnl": 0.88,
+    "map": 165
+  },
+  {
+    "region": "Europe",
+    "discipline": "Audit",
+    "month": "2013-02-01",
+    "revenue": 2505062.710731887,
+    "pnl": 0.85,
+    "map": 160
+  },
+  {
+    "region": "Europe",
+    "discipline": "Taxation",
+    "month": "2013-02-01",
+    "revenue": 3748933.333333333,
+    "pnl": 0.73,
+    "map": 139
+  },
+  {
+    "region": "Europe",
+    "discipline": "Advisory",
+    "month": "2013-02-01",
+    "revenue": 1655731.0257047114,
+    "pnl": 0.9,
+    "map": 169
+  },
+  {
+    "region": "Europe",
+    "discipline": "Audit",
+    "month": "2013-03-01",
+    "revenue": 2705062.710731887,
+    "pnl": 0.9,
+    "map": 169
+  },
+  {
+    "region": "Europe",
+    "discipline": "Taxation",
+    "month": "2013-03-01",
+    "revenue": 1928797.0330489152,
+    "pnl": 0.83,
+    "map": 157
+  },
+  {
+    "region": "Europe",
+    "discipline": "Advisory",
+    "month": "2013-03-01",
+    "revenue": 1383005.5555555555,
+    "pnl": 0.87,
+    "map": 164
+  },
+  {
+    "region": "Europe",
+    "discipline": "Audit",
+    "month": "2013-04-01",
+    "revenue": 723909.7924661845,
+    "pnl": 0.9,
+    "map": 169
+  },
+  {
+    "region": "Europe",
+    "discipline": "Taxation",
+    "month": "2013-04-01",
+    "revenue": 6363875.0,
+    "pnl": 0.76,
+    "map": 144
+  },
+  {
+    "region": "Europe",
+    "discipline": "Advisory",
+    "month": "2013-04-01",
+    "revenue": 4350972.222222222,
+    "pnl": 0.89,
+    "map": 167
+  },
+  {
+    "region": "Europe",
+    "discipline": "Audit",
+    "month": "2013-05-01",
+    "revenue": 2933822.222222222,
+    "pnl": 0.68,
+    "map": 130
+  },
+  {
+    "region": "Europe",
+    "discipline": "Taxation",
+    "month": "2013-05-01",
+    "revenue": 1768900.0,
+    "pnl": 0.73,
+    "map": 139
+  },
+  {
+    "region": "Europe",
+    "discipline": "Advisory",
+    "month": "2013-05-01",
+    "revenue": 6250766.666666667,
+    "pnl": 0.79,
+    "map": 150
+  },
+  {
+    "region": "Europe",
+    "discipline": "Audit",
+    "month": "2013-06-01",
+    "revenue": 3074244.4444444445,
+    "pnl": 0.9400000000000001,
+    "map": 175
+  },
+  {
+    "region": "Europe",
+    "discipline": "Taxation",
+    "month": "2013-06-01",
+    "revenue": 1686933.3333333333,
+    "pnl": 0.9,
+    "map": 169
+  },
+  {
+    "region": "Europe",
+    "discipline": "Advisory",
+    "month": "2013-06-01",
+    "revenue": 513155.55555555556,
+    "pnl": 0.89,
+    "map": 167
+  },
+  {
+    "region": "Europe",
+    "discipline": "Audit",
+    "month": "2013-07-01",
+    "revenue": 1134700.0,
+    "pnl": 0.7,
+    "map": 134
+  },
+  {
+    "region": "Europe",
+    "discipline": "Taxation",
+    "month": "2013-07-01",
+    "revenue": 2130133.3333333335,
+    "pnl": 0.85,
+    "map": 160
+  },
+  {
+    "region": "Europe",
+    "discipline": "Advisory",
+    "month": "2013-07-01",
+    "revenue": 8005000.0,
+    "pnl": 0.76,
+    "map": 144
+  },
+  {
+    "region": "Europe",
+    "discipline": "Audit",
+    "month": "2013-08-01",
+    "revenue": 6136177.777777778,
+    "pnl": 0.89,
+    "map": 167
+  },
+  {
+    "region": "Europe",
+    "discipline": "Taxation",
+    "month": "2013-08-01",
+    "revenue": 7363855.555555555,
+    "pnl": 0.9,
+    "map": 169
+  },
+  {
+    "region": "Europe",
+    "discipline": "Advisory",
+    "month": "2013-08-01",
+    "revenue": 1563000.0,
+    "pnl": 0.71,
+    "map": 136
+  },
+  {
+    "region": "Europe",
+    "discipline": "Audit",
+    "month": "2013-09-01",
+    "revenue": 5645733.333333333,
+    "pnl": 0.85,
+    "map": 160
+  },
+  {
+    "region": "Europe",
+    "discipline": "Taxation",
+    "month": "2013-09-01",
+    "revenue": 2307666.6666666665,
+    "pnl": 0.87,
+    "map": 164
+  },
+  {
+    "region": "Europe",
+    "discipline": "Advisory",
+    "month": "2013-09-01",
+    "revenue": 527200.0,
+    "pnl": 0.93,
+    "map": 174
+  },
+  {
+    "region": "Europe",
+    "discipline": "Audit",
+    "month": "2013-10-01",
+    "revenue": 1405288.8888888888,
+    "pnl": 0.92,
+    "map": 172
+  },
+  {
+    "region": "Europe",
+    "discipline": "Taxation",
+    "month": "2013-10-01",
+    "revenue": 1207066.6666666667,
+    "pnl": 0.89,
+    "map": 167
+  },
+  {
+    "region": "Europe",
+    "discipline": "Advisory",
+    "month": "2013-10-01",
+    "revenue": 769511.1111111111,
+    "pnl": 0.9,
+    "map": 169
+  },
+  {
+    "region": "Europe",
+    "discipline": "Audit",
+    "month": "2013-11-01",
+    "revenue": 5222648.721080003,
+    "pnl": 0.76,
+    "map": 144
+  },
+  {
+    "region": "Europe",
+    "discipline": "Taxation",
+    "month": "2013-11-01",
+    "revenue": 4044068.75254417,
+    "pnl": 0.87,
+    "map": 164
+  },
+  {
+    "region": "Europe",
+    "discipline": "Advisory",
+    "month": "2013-11-01",
+    "revenue": 5875479.811215004,
+    "pnl": 0.88,
+    "map": 165
+  },
+  {
+    "region": "Europe",
+    "discipline": "Audit",
+    "month": "2013-12-01",
+    "revenue": 3456986.540810004,
+    "pnl": 0.66,
+    "map": 127
+  },
+  {
+    "region": "Europe",
+    "discipline": "Taxation",
+    "month": "2013-12-01",
+    "revenue": 5173527.999999999,
+    "pnl": 0.8200000000000001,
+    "map": 155
+  },
+  {
+    "region": "Europe",
+    "discipline": "Advisory",
+    "month": "2013-12-01",
+    "revenue": 2284908.815472502,
+    "pnl": 0.81,
+    "map": 154
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Audit",
+    "month": "2013-01-01",
+    "revenue": 5109112.879317395,
+    "pnl": 0.8,
+    "map": 152
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Taxation",
+    "month": "2013-01-01",
+    "revenue": 3956154.214445384,
+    "pnl": 0.9,
+    "map": 169
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Advisory",
+    "month": "2013-01-01",
+    "revenue": 5747751.989232071,
+    "pnl": 0.89,
+    "map": 167
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Audit",
+    "month": "2013-02-01",
+    "revenue": 3381834.6594880475,
+    "pnl": 0.71,
+    "map": 136
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Taxation",
+    "month": "2013-02-01",
+    "revenue": 5061060.0,
+    "pnl": 0.79,
+    "map": 150
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Advisory",
+    "month": "2013-02-01",
+    "revenue": 2235236.8847013605,
+    "pnl": 0.91,
+    "map": 171
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Audit",
+    "month": "2013-03-01",
+    "revenue": 3651834.6594880475,
+    "pnl": 0.91,
+    "map": 171
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Taxation",
+    "month": "2013-03-01",
+    "revenue": 2603875.9946160354,
+    "pnl": 0.89,
+    "map": 167
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Advisory",
+    "month": "2013-03-01",
+    "revenue": 1867057.5,
+    "pnl": 0.93,
+    "map": 174
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Audit",
+    "month": "2013-04-01",
+    "revenue": 977278.2198293491,
+    "pnl": 0.87,
+    "map": 164
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Taxation",
+    "month": "2013-04-01",
+    "revenue": 8591231.25,
+    "pnl": 0.8200000000000001,
+    "map": 155
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Advisory",
+    "month": "2013-04-01",
+    "revenue": 5873812.5,
+    "pnl": 0.8,
+    "map": 152
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Audit",
+    "month": "2013-05-01",
+    "revenue": 3960660.0,
+    "pnl": 0.74,
+    "map": 140
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Taxation",
+    "month": "2013-05-01",
+    "revenue": 2388015.0,
+    "pnl": 0.79,
+    "map": 150
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Advisory",
+    "month": "2013-05-01",
+    "revenue": 8438535.0,
+    "pnl": 0.89,
+    "map": 167
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Audit",
+    "month": "2013-06-01",
+    "revenue": 4150230.0,
+    "pnl": 0.8200000000000001,
+    "map": 155
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Taxation",
+    "month": "2013-06-01",
+    "revenue": 2277360.0,
+    "pnl": 0.9,
+    "map": 169
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Advisory",
+    "month": "2013-06-01",
+    "revenue": 692760.0,
+    "pnl": 0.85,
+    "map": 160
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Audit",
+    "month": "2013-07-01",
+    "revenue": 1531845.0,
+    "pnl": 0.9,
+    "map": 169
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Taxation",
+    "month": "2013-07-01",
+    "revenue": 2875680.0,
+    "pnl": 0.83,
+    "map": 157
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Advisory",
+    "month": "2013-07-01",
+    "revenue": 10806750.0,
+    "pnl": 0.88,
+    "map": 165
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Audit",
+    "month": "2013-08-01",
+    "revenue": 8283840.0,
+    "pnl": 0.85,
+    "map": 160
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Taxation",
+    "month": "2013-08-01",
+    "revenue": 9941205.0,
+    "pnl": 0.86,
+    "map": 162
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Advisory",
+    "month": "2013-08-01",
+    "revenue": 2110050.0,
+    "pnl": 0.89,
+    "map": 167
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Audit",
+    "month": "2013-09-01",
+    "revenue": 7621740.0,
+    "pnl": 0.86,
+    "map": 162
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Taxation",
+    "month": "2013-09-01",
+    "revenue": 3115350.0,
+    "pnl": 0.83,
+    "map": 157
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Advisory",
+    "month": "2013-09-01",
+    "revenue": 711720.0,
+    "pnl": 0.84,
+    "map": 158
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Audit",
+    "month": "2013-10-01",
+    "revenue": 1897140.0,
+    "pnl": 0.8,
+    "map": 152
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Taxation",
+    "month": "2013-10-01",
+    "revenue": 1629540.0,
+    "pnl": 0.85,
+    "map": 160
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Advisory",
+    "month": "2013-10-01",
+    "revenue": 1038840.0,
+    "pnl": 0.86,
+    "map": 162
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Audit",
+    "month": "2013-11-01",
+    "revenue": 7050575.773458004,
+    "pnl": 0.8200000000000001,
+    "map": 155
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Taxation",
+    "month": "2013-11-01",
+    "revenue": 5459492.815934629,
+    "pnl": 0.79,
+    "map": 150
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Advisory",
+    "month": "2013-11-01",
+    "revenue": 7931897.745140256,
+    "pnl": 0.84,
+    "map": 158
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Audit",
+    "month": "2013-12-01",
+    "revenue": 4666931.830093505,
+    "pnl": 0.72,
+    "map": 137
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Taxation",
+    "month": "2013-12-01",
+    "revenue": 6984262.799999999,
+    "pnl": 0.78,
+    "map": 148
+  },
+  {
+    "region": "Asia Pac",
+    "discipline": "Advisory",
+    "month": "2013-12-01",
+    "revenue": 3084626.900887877,
+    "pnl": 0.88,
+    "map": 165
+  }
+]
