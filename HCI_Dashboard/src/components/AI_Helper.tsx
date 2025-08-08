@@ -33,7 +33,7 @@ function AI_Helper() {
   return (
     <div className="container mt-5 d-flex justify-content-center">
     <div className={`card shadow p-4 ${theme === "dark" ? "bg-dark text-white" : "bg-light text-dark"}`} style={{ width: "90%" }}>
-      <h2>💬 AI Chat Assistant</h2>
+      <h2>💬 AI Assistant</h2>
       <p>Ask a question about company data, metrics, or definitions:</p>
 
       <div className="mb-3">

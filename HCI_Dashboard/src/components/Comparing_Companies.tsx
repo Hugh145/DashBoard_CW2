@@ -62,7 +62,7 @@ console.log("🔐 Token sent:", token);
 
   return (
     <div>
-      <h2>Compare Companies</h2>
+      <h2>Compare Companies Page</h2>
       <Row className="mb-3">
         <Col><Form.Control placeholder="Filter by Name" name="name" onChange={handleFilterChange} /></Col>
         <Col><Form.Control placeholder="Filter by Region" name="region" onChange={handleFilterChange} /></Col>

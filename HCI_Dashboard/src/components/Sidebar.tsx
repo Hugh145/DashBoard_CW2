@@ -13,7 +13,6 @@ const Sidebar: React.FC<SidebarProps> = ({ userType }) => {
 
   const guestLinks = [
     { name: "Dashboard", path: "/dashboard" },
-    { name: "Comparing Companies", path: "/comparingcompanies" },
     { name: "Register", path: "/register" },
     { name: "Login", path: "/login" },
   ];
@@ -22,13 +21,12 @@ const Sidebar: React.FC<SidebarProps> = ({ userType }) => {
     { name: "Dashboard", path: "/dashboard" },
     { name: "Comparing Companies", path: "/comparingcompanies" },
     { name: "AI Evaluation", path: "/ai_helper" },
-    { name: "View Saved Results", path: "/viewsavedresults" },
     { name: "Sign Out", path: "/signout" },
   ];
 
   const links = userType === "guest" ? guestLinks : loginUserLinks;
 
-  const sidebarClass = `d-flex flex-column vh-100 border-end p-3 ${theme === "dark" ? "bg-dark text-white" : "bg-light text-dark"}`;
+  const sidebarClass = `d-flex flex-column border-end p-3 ${theme === "dark" ? "bg-dark text-white" : "bg-light text-dark"}`;
 
   return (
     <div className={sidebarClass} style={{ width: "22%" } }>

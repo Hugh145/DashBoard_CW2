@@ -42,7 +42,7 @@ function Dashboard() {
             <div className="card-body">
               <h5 className="card-title">Compare Companies</h5>
               <p className="card-text">
-                Filter and compare up to two companies by region or name. View their performance across taxation, audit, and advisory metrics through an interactive bar chart.
+                Filter and compare up to two companies by region or name. View their performance across taxation, audit, and advisory metrics through an interactive bar chart but must be sign In to gain access.
               </p>
             </div>
           </div>
@@ -67,29 +67,30 @@ function Dashboard() {
     </div>
       </Fragment>
       <div className={`container-fluid py-5 ${theme === "dark" ? "bg-dark text-white" : "bg-light text-dark"}`} style={{ width: "90%" }}>
-
-              <h1 className="text-center text-2xl font-bold mb-6">Dashboard Metrics</h1>
-              <div className="bg-white border border-[#DDE7F0] rounded shadow-sm p-4 mb-4">
-                  <h2 className="text-[#4DA6FF] text-xl font-bold mb-2">Dashboard Panel</h2>
-                  <div className="mb-2">
-                      <label className="mr-2">Region:</label>
-                      <select value={region} onChange={e => setRegion(e.target.value)} className="border p-1 rounded">
-                          <option value="Americas">USA</option>
-                          <option value="Europe">Europe</option>
-                          <option value="Asia Pac">Asia</option>
-                      </select>
-                  </div>
-                  <div className="mb-2">
-                      <label className="mr-2">Month:</label>
-                      <input type="month" value={month.slice(0, 7)} onChange={e => setMonth(e.target.value + "-01")} className="border p-1 rounded" />
-                  </div>
-                  <button
-                      className="bg-[#4DA6FF] hover:bg-[#3399FF] text-white px-4 py-2 rounded"
-                      onClick={fetchDashboardData}
-                  >
-                      Apply Filters
-                  </button>
-              </div>
+        <h2 className="text-[#4DA6FF] text-xl font-bold mb-2">Dashboard Panel</h2>
+  <div className="mb-2">
+    <label className="mr-2">Region : </label>
+    <select value={region} onChange={e => setRegion(e.target.value)} className="border p-1 rounded">
+        <option value="Americas">USA</option>
+        <option value="Europe">Europe</option>
+        <option value="Asia Pac">Asia</option>
+    </select>
+  </div>
+  <div className="mb-2">
+    <label className="mr-2">Month : </label>
+    <input type="month" value={month.slice(0, 7)} onChange={e => setMonth(e.target.value + "-01")} className="border p-1 rounded" />
+  </div>
+  <button
+    className="bg-[#4DA6FF] hover:bg-[#3399FF] text-white px-4 py-2 rounded"
+    onClick={fetchDashboardData}
+  >
+    Apply Filters
+  </button>
+    {data && (
+    <p className="mt-3 text-sm text-gray-700">
+      Showing data for: <strong>{region}</strong> — <strong>{new Date(month).toLocaleString('default', { month: 'long', year: 'numeric' })}</strong>
+    </p>
+  )}
 
               {data && (
                   <div className="flex flex-row gap-6">
